@@ -1,0 +1,12 @@
+[    2584ms] [INFO] k-web-pixel-version 4 @ https://triathlonwear.no/web-pixels/strict/app/web-pixel-2601025609@3fe25e975c30cd2a9af38a04798704c0.js:0
+[    4315ms] [ERROR] Access to fetch at 'https://wt.omnisendlink.com/REST/inShop/v1/getSettings?shopHostname=triathlonwear.no&shopType=shopify&shopID=57687507017&responseType=json' from origin 'https://triathlonwear.no' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://triathlonwear.no/pages/frakt?view=blackmonth:0
+[    4315ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://wt.omnisendlink.com/REST/inShop/v1/getSettings?shopHostname=triathlonwear.no&shopType=shopify&shopID=57687507017&responseType=json:0
+[    4318ms] TypeError: Failed to fetch
+    at window2.fetch (https://triathlonwear.no/cdn/shopifycloud/storefront/assets/shop_events_listener-819172a8.js:1:7379)
+    at https://triathlonwear.no/cdn/wpm/b43600932w1bbca933p2f8a9c65m024fd2f2m.js:1:91852
+    at window._omnisend.t.getSettings (https://omnisnippet1.com/inshop/launcher-v2.js?v=2026-11-08T07:4:50885)
+    at window._omnisend.t.setBrandSettings (https://omnisnippet1.com/inshop/launcher-v2.js?v=2026-11-08T07:4:51324)
+    at https://omnisnippet1.com/inshop/launcher-v2.js?v=2026-11-08T07:4:51602
+    at https://omnisnippet1.com/inshop/launcher-v2.js?v=2026-11-08T07:4:51625
+[    5467ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://pixel.tapad.com/idsync/ex/push?partner_id=2884&partner_url=https%3A%2F%2Ftr.snapchat.com%2Fcm%2Fp%3Frand%3D1794022254782%26pnid%3D140%26pcid%3D%24%7BTA_DEVICE_ID%7D:0
+[    8692ms] [LOG] Property path "PandectesSettings" not found within 5000ms. @ https://cdn.shopify.com/proxy/d9c7a91c1975a9fcbd7e9171c5fe684173f55b8a1a98acbe07f0674f9da857e7/s.pandect.es/scripts/pandectes-core.js?shop=outletn-ccbd.myshopify.com&sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA:0

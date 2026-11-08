@@ -1,0 +1,167 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: Slipp 1 er ute nå. Slipp 2 åpner om 4 d 11 t 32 min
+  - banner [ref=e6]:
+    - generic [ref=e7]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: https://www.qualipet.no/
+        - img "QualiPet" [ref=e9]
+      - generic [ref=e10]:
+        - generic [ref=e11]: ✓ Fri frakt over 599 kr
+        - generic [ref=e12]: ✓ Levering 1–5 dager
+        - generic [ref=e13]: ✓ 30 dagers returrett
+  - generic [ref=e15]:
+    - generic [ref=e16]:
+      - generic [ref=e17]: BLACK MONTH
+      - heading [level=1] [ref=e18]:
+        - text: Opptil
+        - emphasis [ref=e19]: 40 %
+        - text: på tygg, fôr og beinkraft
+      - paragraph [ref=e20]:
+        - text: Nye varer på tilbud hver uke fram til 29. november.
+        - strong [ref=e21]: Prisene blir ikke lavere senere i måneden.
+        - text: Det eneste som endrer seg, er hvor mye som er igjen på lager.
+      - generic [ref=e22]:
+        - generic [ref=e23]: Slipp 2 åpner om
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e26]: "4"
+            - text: dager
+          - generic [ref=e27]:
+            - generic [ref=e28]: "11"
+            - text: timer
+          - generic [ref=e29]:
+            - generic [ref=e30]: "32"
+            - text: min
+          - generic [ref=e31]:
+            - generic [ref=e32]: "34"
+            - text: sek
+        - generic [ref=e33]: "Slipp 1 er ute nå: tygg, fôr og beinkraft."
+      - generic [ref=e34]:
+        - link "Se tilbudene" [ref=e35] [cursor=pointer]:
+          - /url: "#tilbud"
+        - link "Få beskjed før neste slipp" [ref=e36] [cursor=pointer]:
+          - /url: "#varsel"
+      - generic [ref=e37]:
+        - generic [ref=e38]: ★★★★★ 4,8 av 5 fra 1 026 verifiserte kjøp
+        - generic [ref=e39]: Nisjebutikk på Ullevål, Oslo
+    - generic [ref=e40]:
+      - img "Hund som holder en okseplate i munnen, ute i høstløv" [ref=e41]
+      - generic [ref=e42]:
+        - generic [ref=e43]: OPPTIL
+        - generic [ref=e44]: 40%
+        - generic [ref=e45]: RABATT
+      - generic [ref=e46]: "Okseplater: 30 % rabatt i Black Month"
+  - generic [ref=e48]:
+    - generic [ref=e49]: Slik fungerer Black Month
+    - heading "Fem slipp. Hvert slipp åpner kl. 20 kvelden før." [level=2] [ref=e50]
+    - paragraph [ref=e51]: Når et slipp er ute, står tilbudene til 29. november. Vent gjerne på neste slipp, men da risikerer du at favoritten fra forrige uke er utsolgt.
+    - generic [ref=e52]:
+      - generic [ref=e53]:
+        - generic [ref=e54]: Slipp 1 · Lør 7. nov
+        - heading "Tygg, fôr og beinkraft" [level=3] [ref=e55]
+        - paragraph [ref=e56]: Opptil 40 % på tygg, Innocent Hound og beinkraft
+        - generic [ref=e57]: ● Ute nå
+      - generic [ref=e58]:
+        - generic [ref=e59]: Slipp 2 · Fre 13. nov
+        - heading "Pleie og leker" [level=3] [ref=e60]
+        - paragraph
+        - generic [ref=e61]: Åpner om 4 d 11 t 32 min
+      - generic [ref=e62]:
+        - generic [ref=e63]: Slipp 3 · Fre 20. nov
+        - heading "Trening og godbiter" [level=3] [ref=e64]
+        - paragraph [ref=e65]: Black Week
+        - generic [ref=e66]: Åpner tor 19. nov kl. 20
+      - generic [ref=e67]:
+        - generic [ref=e68]: Slipp 4 · Fre 27. nov
+        - heading "Månedens største slipp" [level=3] [ref=e69]
+        - paragraph [ref=e70]: Black Friday
+        - generic [ref=e71]: Åpner tor 26. nov kl. 20
+      - generic [ref=e72]:
+        - generic [ref=e73]: Slipp 5 · Man 30. nov
+        - heading "Siste sjanse, med en bonus" [level=3] [ref=e74]
+        - paragraph [ref=e75]: Cyber Monday
+        - generic [ref=e76]: Åpner søn 29. nov kl. 20
+  - generic [ref=e79]:
+    - generic [ref=e80]:
+      - generic [ref=e81]: Slipp 1 · Tygg, fôr og beinkraft
+      - heading "På tilbud nå" [level=2] [ref=e82]
+    - paragraph [ref=e83]: Begrenset antall på flere varer. Når det er tomt, er det tomt.
+  - generic [ref=e89]:
+    - generic [ref=e90]: Hvorfor nå og ikke senere?
+    - heading "Tre grunner til å handle i dag" [level=2] [ref=e91]
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - generic [ref=e94]: "1"
+        - heading "Prisen blir ikke lavere" [level=3] [ref=e95]
+        - paragraph [ref=e96]: Ingen av tilbudene blir billigere senere i november, heller ikke på Black Friday. Du taper ingenting på å kjøpe nå.
+      - generic [ref=e97]:
+        - generic [ref=e98]: "2"
+        - heading "Lageret blir bare mindre" [level=3] [ref=e99]
+        - paragraph [ref=e100]: Innocent Hound 1 kg har vi bare et begrenset antall av. Når en vare er utsolgt, er den utsolgt.
+      - generic [ref=e101]:
+        - generic [ref=e102]: "3"
+        - heading "Desember kommer fort" [level=3] [ref=e103]
+        - paragraph [ref=e104]: Skal adventskalenderen ligge klar 1. desember, bør den bestilles tidlig. Vi sender tre ganger i uken.
+  - generic [ref=e106]:
+    - generic [ref=e107]:
+      - generic [ref=e108]: Bestill innen 18. november
+      - heading "Adventskalenderen må rekke 1. desember" [level=3] [ref=e109]
+      - paragraph [ref=e110]: 24 luker til hunden, i en kalender du kan fylle på igjen neste jul.
+      - link "Se adventskalenderen" [ref=e111] [cursor=pointer]:
+        - /url: https://www.qualipet.no/produkt/radical-dog-adventskalender-2026/?utm_source=blackmonth&utm_medium=lp&utm_campaign=bm2026
+    - generic [ref=e112]:
+      - heading "Få e-post kl. 20 kvelden før hvert slipp" [level=3] [ref=e113]
+      - paragraph [ref=e114]: Du får beskjed samtidig som prisene settes ned, så du rekker det populære før det går tomt.
+      - link "Gi meg beskjed" [ref=e115] [cursor=pointer]:
+        - /url: https://www.qualipet.no/black-week/#bm-nyhetsbrev
+  - generic [ref=e117]:
+    - img "Hund som tygger på Braided lamb" [ref=e118]
+    - img "Hund med Braided lamb på et teppe" [ref=e119]
+    - generic [ref=e120]:
+      - generic [ref=e121]: Fra hundene våre
+      - blockquote [ref=e122]: "Braided lamb: 100 % lam, 67 % protein og 40 % rabatt i Black Month."
+      - generic [ref=e123]: Bildene er tatt av Lovise, en av ambassadørene våre
+      - link "Se Braided lamb" [ref=e124] [cursor=pointer]:
+        - /url: https://www.qualipet.no/produkt/braided-lamb-250gr/?utm_source=blackmonth&utm_medium=lp&utm_campaign=bm2026
+  - generic [ref=e126]:
+    - generic [ref=e127]: Greit å vite
+    - heading "Spørsmål om Black Month" [level=2] [ref=e128]
+    - generic [ref=e129]:
+      - group [ref=e130]:
+        - generic "Hvor lenge varer tilbudene? +" [ref=e131] [cursor=pointer]
+      - group [ref=e132]:
+        - generic "Kan jeg bruke rabattkode? +" [ref=e133] [cursor=pointer]
+      - group [ref=e134]:
+        - generic "Er frysetørket med? +" [ref=e135] [cursor=pointer]
+      - group [ref=e136]:
+        - generic "Når kommer pakken? +" [ref=e137] [cursor=pointer]
+      - group [ref=e138]:
+        - generic "Kan jeg returnere? +" [ref=e139] [cursor=pointer]
+      - group [ref=e140]:
+        - generic "Treffer vi dere på Oslo Dog Show? +" [ref=e141] [cursor=pointer]
+  - generic [ref=e143]:
+    - generic [ref=e144]: BLACK MONTH
+    - heading "Handle før det blir tomt" [level=2] [ref=e145]
+    - paragraph [ref=e146]: Prisen er den samme hele måneden. Utvalget er ikke det.
+    - generic [ref=e147]:
+      - generic [ref=e148]: Slipp 2 åpner om
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - generic [ref=e151]: "4"
+          - text: dager
+        - generic [ref=e152]:
+          - generic [ref=e153]: "11"
+          - text: timer
+        - generic [ref=e154]:
+          - generic [ref=e155]: "32"
+          - text: min
+        - generic [ref=e156]:
+          - generic [ref=e157]: "34"
+          - text: sek
+    - link "Se tilbudene" [ref=e158] [cursor=pointer]:
+      - /url: "#tilbud"
+  - contentinfo [ref=e159]:
+    - generic [ref=e160]:
+      - img "QualiPet" [ref=e161]
+      - generic [ref=e162]: Vi fokuserer på sunne, rene og trygge godbiter uten unødvendige tilsetningsstoffer.
+      - generic [ref=e163]: QualiPet AS · Org.nr. 914 901 472

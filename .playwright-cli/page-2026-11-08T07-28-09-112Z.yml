@@ -1,0 +1,359 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]: "Black Month: kjøp 5, få 6 · Kjøp 10, få 12 · Fri frakt over 599 kr"
+  - banner [ref=f2e3]:
+    - generic [ref=f2e4]:
+      - link "Triathlon" [ref=f2e5] [cursor=pointer]:
+        - /url: https://triathlonwear.no/
+        - img "Triathlon" [ref=f2e6]
+      - navigation [ref=f2e7]:
+        - link "Produkter" [ref=f2e8] [cursor=pointer]:
+          - /url: https://triathlonwear.no/collections/all
+        - link "Pakkepriser" [ref=f2e9] [cursor=pointer]:
+          - /url: "#kjop"
+        - link "Om oss" [ref=f2e10] [cursor=pointer]:
+          - /url: https://triathlonwear.no/pages/om-oss
+      - generic [ref=f2e11]:
+        - link "Søk" [ref=f2e12] [cursor=pointer]:
+          - /url: https://triathlonwear.no/search
+        - link "Handlekurv" [ref=f2e16] [cursor=pointer]:
+          - /url: https://triathlonwear.no/cart
+  - main [ref=f2e20]:
+    - generic [ref=f2e22]:
+      - generic [ref=f2e23]:
+        - generic [ref=f2e24]:
+          - generic [ref=f2e25]: På lager
+          - generic [ref=f2e26]: "Black Month: kjøp 5, få 6"
+          - generic [ref=f2e27]:
+            - img "Triathlon bambusboxere, 5 stk i sort" [ref=f2e29]
+            - 'generic "Video: mann i sort og navy Triathlon boxer på en brygge" [ref=f2e31]'
+            - img "Sort Triathlon boxer sett fra siden, beina går langt ned på låret" [ref=f2e33]
+            - img "Mann drar i beinet på en sort Triathlon boxer for å vise stretchen" [ref=f2e35]
+            - img "Sort Triathlon boxer i skogen" [ref=f2e37]
+            - img "Mann i navy Triathlon boxer" [ref=f2e39]
+            - img "Army grønn Triathlon boxer ute" [ref=f2e41]
+        - generic [ref=f2e42]:
+          - button "Bilde 1" [ref=f2e43] [cursor=pointer]
+          - button "Video 2" [ref=f2e44] [cursor=pointer]
+          - button "Bilde 3" [ref=f2e45] [cursor=pointer]
+          - button "Bilde 4" [ref=f2e46] [cursor=pointer]
+          - button "Bilde 5" [ref=f2e47] [cursor=pointer]
+          - button "Bilde 6" [ref=f2e48] [cursor=pointer]
+          - button "Bilde 7" [ref=f2e49] [cursor=pointer]
+      - generic [ref=f2e50]:
+        - paragraph [ref=f2e51]: Black Month · Triathlon boxershorts
+        - 'heading "Bambus boxershorts: kjøp 5, få 6" [level=1] [ref=f2e52]'
+        - link "★★★★★ 4,7 / 5 (821 anmeldelser)" [ref=f2e53] [cursor=pointer]:
+          - /url: "#anmeldelser"
+          - generic [ref=f2e54]: ★★★★★
+          - generic [ref=f2e55]: 4,7 / 5
+          - generic [ref=f2e56]: (821 anmeldelser)
+        - generic [ref=f2e57]:
+          - generic [ref=f2e58]: 549 kr
+          - generic [ref=f2e59]: 92 kr per boxer · spar 54 %
+        - paragraph [ref=f2e60]: Inkludert avgifter.
+        - generic [ref=f2e61]:
+          - generic [ref=f2e62]: "Black Month: boxere på kjøpet"
+          - text: Kjøp 5, få 6. Kjøp 10, få 12. Ekstraboxerne legger vi i pakken.
+        - generic [ref=f2e63]:
+          - text: Velg boks
+          - generic [ref=f2e64]: 1 boxer koster 199 kr
+        - radiogroup "Velg boks" [ref=f2e65]:
+          - radio "Liten · 3 stk 349 kr 116 kr/stk Spar 42 %" [ref=f2e66] [cursor=pointer]:
+            - generic [ref=f2e67]: Liten · 3 stk
+            - generic [ref=f2e68]: 349 kr
+            - generic [ref=f2e69]: 116 kr/stk
+            - generic [ref=f2e70]: Spar 42 %
+          - radio "+1 gratis Medium · 5 stk 549 kr 92 kr/stk Spar 54 %" [checked] [ref=f2e71] [cursor=pointer]:
+            - generic [ref=f2e72]: +1 gratis
+            - generic [ref=f2e73]: Medium · 5 stk
+            - generic [ref=f2e74]: 549 kr
+            - generic [ref=f2e75]: 92 kr/stk
+            - generic [ref=f2e76]: Spar 54 %
+          - radio "+2 gratis Stor · 10 stk 990 kr 83 kr/stk Spar 58 %" [ref=f2e77] [cursor=pointer]:
+            - generic [ref=f2e78]: +2 gratis
+            - generic [ref=f2e79]: Stor · 10 stk
+            - generic [ref=f2e80]: 990 kr
+            - generic [ref=f2e81]: 83 kr/stk
+            - generic [ref=f2e82]: Spar 58 %
+        - generic [ref=f2e83]:
+          - text: "Farge:"
+          - generic [ref=f2e84]: Sort
+        - radiogroup "Farge" [ref=f2e85]:
+          - radio "Sort" [checked] [ref=f2e86] [cursor=pointer]
+          - radio "Navy" [ref=f2e88] [cursor=pointer]
+          - radio "Blå" [ref=f2e90] [cursor=pointer]
+          - radio "Army grønn" [ref=f2e92] [cursor=pointer]
+          - radio "Sort og navy" [ref=f2e94] [cursor=pointer]
+          - radio "Sort og blå" [ref=f2e96] [cursor=pointer]
+          - radio "Army og sort" [ref=f2e98] [cursor=pointer]
+          - radio "Navy og army" [ref=f2e100] [cursor=pointer]
+          - radio "Navy og blå" [ref=f2e102] [cursor=pointer]
+        - paragraph [ref=f2e104]: "I boksen: 5 sorte boxershorts"
+        - generic [ref=f2e105]:
+          - text: Størrelse
+          - button "Størrelsesguide" [ref=f2e106] [cursor=pointer]
+        - radiogroup "Størrelse" [ref=f2e107]:
+          - radio "S" [ref=f2e108] [cursor=pointer]
+          - radio "M" [ref=f2e109] [cursor=pointer]
+          - radio "L" [ref=f2e110] [cursor=pointer]
+          - radio "XL" [ref=f2e111] [cursor=pointer]
+          - radio "XXL" [ref=f2e112] [cursor=pointer]
+          - radio "3XL" [ref=f2e113] [cursor=pointer]
+        - paragraph [ref=f2e115]:
+          - generic [ref=f2e120]: Du mangler 50 kr til fri frakt
+        - link "Legg i handlekurv · 549 kr" [ref=f2e123] [cursor=pointer]:
+          - /url: "#kjop"
+          - text: Legg i handlekurv
+          - generic [ref=f2e124]: · 549 kr
+        - link "★★★★★ 4,7 av 5 fra 821 anmeldelser · 98 % verifiserte" [ref=f2e125] [cursor=pointer]:
+          - /url: "#anmeldelser"
+          - generic [ref=f2e126]: ★★★★★
+          - generic [ref=f2e127]: 4,7 av 5
+          - text: fra 821 anmeldelser · 98 % verifiserte
+        - button "Legg til 3 stk til for 349 kr Gir fri frakt · 3 stk sort, samme størrelse" [ref=f2e129] [cursor=pointer]:
+          - generic [ref=f2e133]:
+            - generic [ref=f2e134]: Legg til 3 stk til for 349 kr
+            - generic [ref=f2e135]: Gir fri frakt · 3 stk sort, samme størrelse
+        - generic [ref=f2e136]:
+          - generic [ref=f2e137]: Fri frakt over 599 kr
+          - generic [ref=f2e138]: Levering 2 til 4 virkedager
+          - generic [ref=f2e139]: 14 dagers angrerett
+        - img "Visa, Mastercard, Vipps og Klarna" [ref=f2e141]
+        - generic [ref=f2e142]:
+          - generic [ref=f2e143]:
+            - heading "Se dem i bruk" [level=3] [ref=f2e144]
+            - generic [ref=f2e145]: Uten lyd
+          - generic [ref=f2e146]:
+            - figure "På brygga Sort og navy" [ref=f2e147]:
+              - generic "Mann i sort og navy Triathlon boxer på en brygge" [ref=f2e149]
+              - generic [ref=f2e150]:
+                - text: På brygga
+                - generic [ref=f2e151]: Sort og navy
+            - figure "Prøver farger Blå, sort og navy" [ref=f2e152]:
+              - generic "Mann prøver blå, sort og navy Triathlon boxer på stranda" [ref=f2e154]
+              - generic [ref=f2e155]:
+                - text: Prøver farger
+                - generic [ref=f2e156]: Blå, sort og navy
+            - figure "Terningkast «Hvor fornøyd er du?»" [ref=f2e157]:
+              - generic "Mann på en brygge gir Triathlon terningkast" [ref=f2e159]
+              - generic [ref=f2e160]:
+                - text: Terningkast
+                - generic [ref=f2e161]: «Hvor fornøyd er du?»
+        - generic [ref=f2e162]:
+          - group [ref=f2e163]:
+            - generic "Innhold og materiale +" [ref=f2e164] [cursor=pointer]
+          - group [ref=f2e165]:
+            - generic "Frakt og retur +" [ref=f2e166] [cursor=pointer]
+    - generic [ref=f2e168]:
+      - generic [ref=f2e169]:
+        - generic [ref=f2e170]: Hvorfor bambus?
+        - heading "Designet for komfort hele dagen" [level=2] [ref=f2e171]
+        - paragraph [ref=f2e172]: Det kundene merker første gang de tar dem på.
+      - generic [ref=f2e173]:
+        - generic [ref=f2e174]:
+          - heading "Myk mot huden" [level=3] [ref=f2e179]
+          - paragraph [ref=f2e180]: 93 % viskose fra bambus. Mykheten er det kundene skriver mest om.
+        - generic [ref=f2e181]:
+          - heading "Puster godt" [level=3] [ref=f2e186]
+          - paragraph [ref=f2e187]: Lett og myk viskose som kjennes behagelig hele dagen.
+        - generic [ref=f2e188]:
+          - heading "Kryper ikke opp" [level=3] [ref=f2e192]
+          - paragraph [ref=f2e193]: Lange ben som blir liggende på låret, også når du setter deg i bilen.
+        - generic [ref=f2e194]:
+          - heading "Litt stretch" [level=3] [ref=f2e199]
+          - paragraph [ref=f2e200]: 7 % elastan gjør at boxeren følger med når du beveger deg.
+        - generic [ref=f2e201]:
+          - heading "Flate sømmer" [level=3] [ref=f2e205]
+          - paragraph [ref=f2e206]: Ingen skjøter som gnager på lange dager.
+        - generic [ref=f2e207]:
+          - heading "Vask på 40 grader" [level=3] [ref=f2e212]
+          - paragraph [ref=f2e213]: Kan vaskes sammen med resten av klærne.
+    - generic [ref=f2e215]:
+      - generic [ref=f2e216]:
+        - generic [ref=f2e217]: Black Month
+        - heading "Hvilken boks passer deg?" [level=2] [ref=f2e218]
+        - paragraph [ref=f2e219]: Samme boxer i alle. Jo flere du tar, jo lavere blir prisen per boxer.
+      - generic [ref=f2e220]:
+        - generic [ref=f2e221]:
+          - generic [ref=f2e222]: Liten
+          - generic [ref=f2e223]: Medium
+          - generic [ref=f2e224]: Stor
+        - generic [ref=f2e225]:
+          - generic [ref=f2e226]: Du betaler for
+          - generic [ref=f2e227]: "3"
+          - generic [ref=f2e228]: "5"
+          - generic [ref=f2e229]: "10"
+        - generic [ref=f2e230]:
+          - generic [ref=f2e231]: Du får
+          - generic [ref=f2e232]: "3"
+          - generic [ref=f2e233]: "6"
+          - generic [ref=f2e235]: "12"
+        - generic [ref=f2e237]:
+          - generic [ref=f2e238]: Pris
+          - generic [ref=f2e239]: 349 kr
+          - generic [ref=f2e240]: 549 kr
+          - generic [ref=f2e241]: 990 kr
+        - generic [ref=f2e242]:
+          - generic [ref=f2e243]: Per boxer
+          - generic [ref=f2e244]: 116 kr
+          - generic [ref=f2e245]: 92 kr
+          - generic [ref=f2e246]: 83 kr
+        - generic [ref=f2e247]:
+          - generic [ref=f2e248]: Fri frakt i postkassen
+          - generic [ref=f2e249]: ✕
+          - generic [ref=f2e251]: ✕
+          - generic [ref=f2e253]: ✓
+    - generic [ref=f2e257]:
+      - generic [ref=f2e258]:
+        - heading "Sitter på plass hele dagen" [level=2] [ref=f2e259]
+        - paragraph [ref=f2e260]: Ingen rulling opp på låret og ingen klump i lysken.
+        - paragraph [ref=f2e261]:
+          - text: «Topp soft følelse og holder seg den skal,ikke oppe i skrittet»
+          - generic [ref=f2e262]: Per I., verifisert kjøper
+        - generic [ref=f2e263]:
+          - generic [ref=f2e268]:
+            - generic [ref=f2e269]: Lange ben
+            - text: Beina går langt ned på låret og blir liggende der.
+          - generic [ref=f2e275]:
+            - generic [ref=f2e276]: Elastisk og fleksibel
+            - text: 7 % elastan gir stretch som følger kroppen.
+          - generic [ref=f2e282]:
+            - generic [ref=f2e283]: Tåler vask
+            - text: Vask på 40 grader.
+        - generic [ref=f2e284]:
+          - text: Størrelsesguide
+          - paragraph [ref=f2e285]: Mål rundt midjen der buksen sitter.
+          - table [ref=f2e286]:
+            - rowgroup [ref=f2e287]:
+              - row [ref=f2e288]:
+                - columnheader "Str." [ref=f2e289]
+                - columnheader "S" [ref=f2e290]
+                - columnheader "M" [ref=f2e291]
+                - columnheader "L" [ref=f2e292]
+                - columnheader "XL" [ref=f2e293]
+                - columnheader "XXL" [ref=f2e294]
+              - row [ref=f2e295]:
+                - rowheader "Midje" [ref=f2e296]
+                - cell "76 til 81" [ref=f2e297]
+                - cell "81 til 86" [ref=f2e298]
+                - cell "86 til 91" [ref=f2e299]
+                - cell "91 til 96" [ref=f2e300]
+                - cell "96 til 101" [ref=f2e301]
+          - paragraph [ref=f2e302]: Alle mål i cm. Ligger du mellom to størrelser, ta den største.
+      - img "Sort Triathlon boxer sett fra siden, beina går langt ned på låret" [ref=f2e304]
+    - generic [ref=f2e306]:
+      - generic [ref=f2e308]:
+        - generic [ref=f2e309]: Anmeldelser
+        - heading "Det kundene skriver" [level=2] [ref=f2e310]
+      - generic [ref=f2e311]:
+        - generic [ref=f2e312]:
+          - text: 4,7
+          - generic [ref=f2e313]: ★★★★★
+          - generic [ref=f2e314]: 821 anmeldelser98 % verifiserte kjøp
+        - generic [ref=f2e315]:
+          - generic "Fordeling av stjerner" [ref=f2e316]:
+            - generic [ref=f2e317]:
+              - generic [ref=f2e318]: 5 ★
+              - generic [ref=f2e321]: "662"
+            - generic [ref=f2e322]:
+              - generic [ref=f2e323]: 4 ★
+              - generic [ref=f2e326]: "107"
+            - generic [ref=f2e327]:
+              - generic [ref=f2e328]: 3 ★
+              - generic [ref=f2e331]: "27"
+            - generic [ref=f2e332]:
+              - generic [ref=f2e333]: 2 ★
+              - generic [ref=f2e336]: "14"
+            - generic [ref=f2e337]:
+              - generic [ref=f2e338]: 1 ★
+              - generic [ref=f2e341]: "11"
+          - paragraph [ref=f2e342]: Alle anmeldelser i nettbutikken, samlet av Judge.me.
+      - generic [ref=f2e343]:
+        - generic [ref=f2e344]:
+          - img "Kundebilde fra Geir O." [ref=f2e345]
+          - generic [ref=f2e346]:
+            - text: ★★★★★
+            - paragraph [ref=f2e347]: «Meget behagelige å ha på seg. Rask levering er også ett pluss. Kan absolutt anbefale kjøp av produktet.»
+            - generic [ref=f2e348]:
+              - text: Geir O. · verifisert kjøper
+              - generic [ref=f2e349]: om Bambus boxer shorts pakke (5 stk)
+        - generic [ref=f2e350]:
+          - img "Kundebilde fra Davy W. med en sort Triathlon boxer" [ref=f2e351]
+          - generic [ref=f2e352]:
+            - text: ★★★★★
+            - paragraph [ref=f2e353]: «Det finnes helt sikkert noen som kler seg penere … Men når det kommer til stykket!»
+            - generic [ref=f2e354]:
+              - text: Davy W.
+              - generic [ref=f2e355]: om Bambus Boxer Shorts Sort
+      - generic [ref=f2e356]:
+        - generic [ref=f2e357]:
+          - text: ★★★★★
+          - paragraph [ref=f2e358]: «Komfortable boxere. Sitter som et skudd og sklir ikke oppover ved bruk.»
+          - generic [ref=f2e359]: Per N. · verifisert kjøper
+        - generic [ref=f2e360]:
+          - text: ★★★★★
+          - paragraph [ref=f2e361]: «En bokser som holder på plass og ikke skaper gnisning mellom beina»
+          - generic [ref=f2e362]: Lars S. · verifisert kjøper
+        - generic [ref=f2e363]:
+          - text: ★★★★★
+          - paragraph [ref=f2e364]: «De var veldig behagelige å ha på seg, og de krøller seg ikke opp låret når man tar på seg bukser og det synes jeg er bra»
+          - generic [ref=f2e365]: Espen R. · verifisert kjøper
+      - button "Vis flere anmeldelser" [ref=f2e366] [cursor=pointer]
+    - generic [ref=f2e368]:
+      - generic [ref=f2e369]:
+        - generic [ref=f2e370]: Spørsmål og svar
+        - heading "Før du bestiller" [level=2] [ref=f2e371]
+      - generic [ref=f2e372]:
+        - group [ref=f2e373]:
+          - generic "Hvilken størrelse skal jeg ta? +" [ref=f2e374] [cursor=pointer]
+        - group [ref=f2e375]:
+          - generic "Hva er forskjellen på boksene? +" [ref=f2e376] [cursor=pointer]
+        - group [ref=f2e377]:
+          - generic "Hvordan får jeg ekstraboxerne? +" [ref=f2e378] [cursor=pointer]
+        - group [ref=f2e379]:
+          - generic "Hva koster frakten? +" [ref=f2e380] [cursor=pointer]
+        - group [ref=f2e381]:
+          - generic "Hvor lang tid tar leveringen? +" [ref=f2e382] [cursor=pointer]
+        - group [ref=f2e383]:
+          - generic "Hva om de ikke passer? +" [ref=f2e384] [cursor=pointer]
+        - group [ref=f2e385]:
+          - generic "Hvordan betaler jeg? +" [ref=f2e386] [cursor=pointer]
+  - contentinfo [ref=f2e387]:
+    - img "Triathlon" [ref=f2e388]
+    - generic [ref=f2e389]: Triathlon Wear · Magnus Barfotsvei 5, 4633 Kristiansand
+    - navigation [ref=f2e390]:
+      - link "Vilkår" [ref=f2e391] [cursor=pointer]:
+        - /url: https://triathlonwear.no/policies/terms-of-service
+      - link "Frakt" [ref=f2e392] [cursor=pointer]:
+        - /url: https://triathlonwear.no/policies/shipping-policy
+      - link "Angrerett" [ref=f2e393] [cursor=pointer]:
+        - /url: https://triathlonwear.no/policies/refund-policy
+      - link "Personvern" [ref=f2e394] [cursor=pointer]:
+        - /url: https://triathlonwear.no/policies/privacy-policy
+    - generic [ref=f2e395]: © Triathlon AS
+  - dialog [ref=f2e396]:
+    - button "Lukk" [ref=f2e397] [cursor=pointer]: ×
+    - heading "Størrelsesguide" [level=3] [ref=f2e398]
+    - paragraph [ref=f2e399]: Mål rundt midjen der buksen sitter.
+    - table [ref=f2e400]:
+      - rowgroup [ref=f2e401]:
+        - row [ref=f2e402]:
+          - columnheader "Størrelse" [ref=f2e403]
+          - columnheader "Midje (cm)" [ref=f2e404]
+        - row [ref=f2e405]:
+          - rowheader "S" [ref=f2e406]
+          - cell "76 til 81" [ref=f2e407]
+        - row [ref=f2e408]:
+          - rowheader "M" [ref=f2e409]
+          - cell "81 til 86" [ref=f2e410]
+        - row [ref=f2e411]:
+          - rowheader "L" [ref=f2e412]
+          - cell "86 til 91" [ref=f2e413]
+        - row [ref=f2e414]:
+          - rowheader "XL" [ref=f2e415]
+          - cell "91 til 96" [ref=f2e416]
+        - row [ref=f2e417]:
+          - rowheader "XXL" [ref=f2e418]
+          - cell "96 til 101" [ref=f2e419]
+    - paragraph [ref=f2e420]: Ligger du mellom to størrelser, velg den største for ekstra komfort.
+    - paragraph [ref=f2e421]: Modellen er 185 cm og bruker størrelse M.
